@@ -67,7 +67,7 @@
             this.btn_ninja.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
             this.btn_ninja.ForeColor = System.Drawing.Color.Blue;
             this.btn_ninja.Location = new System.Drawing.Point(698, 65);
-            this.btn_ninja.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btn_ninja.Margin = new System.Windows.Forms.Padding(2);
             this.btn_ninja.Name = "btn_ninja";
             this.btn_ninja.Size = new System.Drawing.Size(56, 37);
             this.btn_ninja.TabIndex = 28;
@@ -80,7 +80,7 @@
             this.btn_dragao.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
             this.btn_dragao.ForeColor = System.Drawing.Color.Blue;
             this.btn_dragao.Location = new System.Drawing.Point(698, 284);
-            this.btn_dragao.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btn_dragao.Margin = new System.Windows.Forms.Padding(2);
             this.btn_dragao.Name = "btn_dragao";
             this.btn_dragao.Size = new System.Drawing.Size(56, 37);
             this.btn_dragao.TabIndex = 27;
@@ -94,7 +94,7 @@
             this.btn_general.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
             this.btn_general.ForeColor = System.Drawing.Color.Blue;
             this.btn_general.Location = new System.Drawing.Point(227, 65);
-            this.btn_general.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btn_general.Margin = new System.Windows.Forms.Padding(2);
             this.btn_general.Name = "btn_general";
             this.btn_general.Size = new System.Drawing.Size(56, 37);
             this.btn_general.TabIndex = 26;
@@ -108,7 +108,7 @@
             this.btn_soldado.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
             this.btn_soldado.ForeColor = System.Drawing.Color.Blue;
             this.btn_soldado.Location = new System.Drawing.Point(458, 65);
-            this.btn_soldado.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btn_soldado.Margin = new System.Windows.Forms.Padding(2);
             this.btn_soldado.Name = "btn_soldado";
             this.btn_soldado.Size = new System.Drawing.Size(56, 37);
             this.btn_soldado.TabIndex = 25;
@@ -121,7 +121,7 @@
             this.btn_lutadordesumo.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
             this.btn_lutadordesumo.ForeColor = System.Drawing.Color.Blue;
             this.btn_lutadordesumo.Location = new System.Drawing.Point(227, 284);
-            this.btn_lutadordesumo.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btn_lutadordesumo.Margin = new System.Windows.Forms.Padding(2);
             this.btn_lutadordesumo.Name = "btn_lutadordesumo";
             this.btn_lutadordesumo.Size = new System.Drawing.Size(56, 37);
             this.btn_lutadordesumo.TabIndex = 24;
@@ -134,7 +134,7 @@
             this.btn_mago.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
             this.btn_mago.ForeColor = System.Drawing.Color.Blue;
             this.btn_mago.Location = new System.Drawing.Point(458, 284);
-            this.btn_mago.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btn_mago.Margin = new System.Windows.Forms.Padding(2);
             this.btn_mago.Name = "btn_mago";
             this.btn_mago.Size = new System.Drawing.Size(56, 37);
             this.btn_mago.TabIndex = 23;
@@ -146,7 +146,7 @@
             this.pictureBox6.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
             this.pictureBox6.Image = global::Luta3.Properties.Resources.dragao;
             this.pictureBox6.Location = new System.Drawing.Point(634, 337);
-            this.pictureBox6.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.pictureBox6.Margin = new System.Windows.Forms.Padding(2);
             this.pictureBox6.Name = "pictureBox6";
             this.pictureBox6.Size = new System.Drawing.Size(177, 166);
             this.pictureBox6.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -158,7 +158,7 @@
             this.pictureBox5.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
             this.pictureBox5.Image = global::Luta3.Properties.Resources.mago;
             this.pictureBox5.Location = new System.Drawing.Point(394, 337);
-            this.pictureBox5.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.pictureBox5.Margin = new System.Windows.Forms.Padding(2);
             this.pictureBox5.Name = "pictureBox5";
             this.pictureBox5.Size = new System.Drawing.Size(177, 166);
             this.pictureBox5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -170,7 +170,7 @@
             this.pictureBox4.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
             this.pictureBox4.Image = global::Luta3.Properties.Resources.lutadordesumo;
             this.pictureBox4.Location = new System.Drawing.Point(166, 337);
-            this.pictureBox4.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.pictureBox4.Margin = new System.Windows.Forms.Padding(2);
             this.pictureBox4.Name = "pictureBox4";
             this.pictureBox4.Size = new System.Drawing.Size(177, 166);
             this.pictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -182,7 +182,7 @@
             this.pictureBox3.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
             this.pictureBox3.Image = global::Luta3.Properties.Resources.ninja;
             this.pictureBox3.Location = new System.Drawing.Point(634, 115);
-            this.pictureBox3.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.pictureBox3.Margin = new System.Windows.Forms.Padding(2);
             this.pictureBox3.Name = "pictureBox3";
             this.pictureBox3.Size = new System.Drawing.Size(171, 158);
             this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -194,7 +194,7 @@
             this.pictureBox2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
             this.pictureBox2.Image = global::Luta3.Properties.Resources.soldado;
             this.pictureBox2.Location = new System.Drawing.Point(394, 115);
-            this.pictureBox2.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.pictureBox2.Margin = new System.Windows.Forms.Padding(2);
             this.pictureBox2.Name = "pictureBox2";
             this.pictureBox2.Size = new System.Drawing.Size(177, 158);
             this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -206,7 +206,7 @@
             this.pictureBox1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
             this.pictureBox1.Image = global::Luta3.Properties.Resources.general;
             this.pictureBox1.Location = new System.Drawing.Point(166, 115);
-            this.pictureBox1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.pictureBox1.Margin = new System.Windows.Forms.Padding(2);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(177, 158);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -232,7 +232,7 @@
             this.Controls.Add(this.btn_soldado);
             this.Controls.Add(this.btn_lutadordesumo);
             this.Controls.Add(this.btn_mago);
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "Form1";
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);

@@ -12,9 +12,11 @@ namespace Luta3
 {
     public partial class Form1 : Form
     {
-        public Form1()
+        int player;
+        public Form1(int player)
         {
             InitializeComponent();
+            this.player = player;
         }
 
         private void btn_general_Click(object sender, EventArgs e)

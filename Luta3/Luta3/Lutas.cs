@@ -6,7 +6,13 @@ using System.Threading.Tasks;
 
 namespace Luta3
 {
-    class Lutas
+    static class Lutas
     {
+
+        public static void iniciar()
+        {
+            Form1 form1 = new Form1(1);
+            form1.ShowDialog();
+        }
     }
 }
