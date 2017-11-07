@@ -14,8 +14,6 @@ namespace Luta3
         {
             Form1 form1 = new Form1(1);
             form1.ShowDialog();
-
-
         }
     }
 }
