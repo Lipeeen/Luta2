@@ -143,9 +143,29 @@ namespace Luta3.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap luva_de_box {
+            get {
+                object obj = ResourceManager.GetObject("luva de box", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap mago {
             get {
                 object obj = ResourceManager.GetObject("mago", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap mascara {
+            get {
+                object obj = ResourceManager.GetObject("mascara", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

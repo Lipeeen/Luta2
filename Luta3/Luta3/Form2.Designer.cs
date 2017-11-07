@@ -80,6 +80,7 @@
             this.picture_premio.Location = new System.Drawing.Point(353, 450);
             this.picture_premio.Name = "picture_premio";
             this.picture_premio.Size = new System.Drawing.Size(236, 204);
+            this.picture_premio.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.picture_premio.TabIndex = 4;
             this.picture_premio.TabStop = false;
             // 

@@ -39,9 +39,11 @@
             // 
             // picture_premioconsolacao
             // 
+            this.picture_premioconsolacao.Image = global::Luta3.Properties.Resources.mascara;
             this.picture_premioconsolacao.Location = new System.Drawing.Point(357, 446);
             this.picture_premioconsolacao.Name = "picture_premioconsolacao";
-            this.picture_premioconsolacao.Size = new System.Drawing.Size(236, 204);
+            this.picture_premioconsolacao.Size = new System.Drawing.Size(236, 256);
+            this.picture_premioconsolacao.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.picture_premioconsolacao.TabIndex = 9;
             this.picture_premioconsolacao.TabStop = false;
             // 
@@ -88,7 +90,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = global::Luta3.Properties.Resources.fundo;
-            this.ClientSize = new System.Drawing.Size(903, 678);
+            this.ClientSize = new System.Drawing.Size(903, 725);
             this.Controls.Add(this.picture_premioconsolacao);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.lbl_personagemvencedor);
