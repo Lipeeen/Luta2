@@ -63,9 +63,29 @@ namespace Luta3.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap bola_azul {
+            get {
+                object obj = ResourceManager.GetObject("bola azul", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap bola_de_fogo {
             get {
                 object obj = ResourceManager.GetObject("bola-de-fogo", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap cajado {
+            get {
+                object obj = ResourceManager.GetObject("cajado", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -153,6 +173,16 @@ namespace Luta3.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap mascara {
+            get {
+                object obj = ResourceManager.GetObject("mascara", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap ninja {
             get {
                 object obj = ResourceManager.GetObject("ninja", resourceCulture);
@@ -176,6 +206,36 @@ namespace Luta3.Properties {
         internal static System.Drawing.Bitmap sem_arma {
             get {
                 object obj = ResourceManager.GetObject("sem arma", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap shotgun {
+            get {
+                object obj = ResourceManager.GetObject("shotgun", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap shuriken {
+            get {
+                object obj = ResourceManager.GetObject("shuriken", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap sniper {
+            get {
+                object obj = ResourceManager.GetObject("sniper", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
