@@ -46,12 +46,21 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Armas\IArma.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="Lutas.cs" />
+    <Compile Include="Personagens\Dragao.cs" />
+    <Compile Include="Personagens\General.cs" />
+    <Compile Include="Personagens\LutsSumo.cs" />
+    <Compile Include="Personagens\Mago.cs" />
+    <Compile Include="Personagens\Ninja.cs" />
+    <Compile Include="Personagens\Personagem.cs" />
+    <Compile Include="Personagens\Soldado.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
