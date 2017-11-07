@@ -16,5 +16,10 @@ namespace Luta3
         {
             InitializeComponent();
         }
+
+        private void btn_general_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("General!");
+        }
     }
 }

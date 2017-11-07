@@ -52,9 +52,10 @@
             // pictureBox6
             // 
             this.pictureBox6.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
-            this.pictureBox6.Location = new System.Drawing.Point(846, 415);
+            this.pictureBox6.Location = new System.Drawing.Point(634, 337);
+            this.pictureBox6.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pictureBox6.Name = "pictureBox6";
-            this.pictureBox6.Size = new System.Drawing.Size(236, 204);
+            this.pictureBox6.Size = new System.Drawing.Size(177, 166);
             this.pictureBox6.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox6.TabIndex = 35;
             this.pictureBox6.TabStop = false;
@@ -62,9 +63,10 @@
             // pictureBox5
             // 
             this.pictureBox5.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
-            this.pictureBox5.Location = new System.Drawing.Point(526, 415);
+            this.pictureBox5.Location = new System.Drawing.Point(394, 337);
+            this.pictureBox5.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pictureBox5.Name = "pictureBox5";
-            this.pictureBox5.Size = new System.Drawing.Size(236, 204);
+            this.pictureBox5.Size = new System.Drawing.Size(177, 166);
             this.pictureBox5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox5.TabIndex = 34;
             this.pictureBox5.TabStop = false;
@@ -72,9 +74,10 @@
             // pictureBox4
             // 
             this.pictureBox4.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
-            this.pictureBox4.Location = new System.Drawing.Point(221, 415);
+            this.pictureBox4.Location = new System.Drawing.Point(166, 337);
+            this.pictureBox4.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pictureBox4.Name = "pictureBox4";
-            this.pictureBox4.Size = new System.Drawing.Size(236, 204);
+            this.pictureBox4.Size = new System.Drawing.Size(177, 166);
             this.pictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox4.TabIndex = 33;
             this.pictureBox4.TabStop = false;
@@ -82,9 +85,10 @@
             // pictureBox3
             // 
             this.pictureBox3.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
-            this.pictureBox3.Location = new System.Drawing.Point(846, 141);
+            this.pictureBox3.Location = new System.Drawing.Point(634, 115);
+            this.pictureBox3.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pictureBox3.Name = "pictureBox3";
-            this.pictureBox3.Size = new System.Drawing.Size(228, 194);
+            this.pictureBox3.Size = new System.Drawing.Size(171, 158);
             this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox3.TabIndex = 32;
             this.pictureBox3.TabStop = false;
@@ -92,9 +96,10 @@
             // pictureBox2
             // 
             this.pictureBox2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
-            this.pictureBox2.Location = new System.Drawing.Point(526, 141);
+            this.pictureBox2.Location = new System.Drawing.Point(394, 115);
+            this.pictureBox2.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(236, 194);
+            this.pictureBox2.Size = new System.Drawing.Size(177, 158);
             this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox2.TabIndex = 31;
             this.pictureBox2.TabStop = false;
@@ -102,9 +107,10 @@
             // pictureBox1
             // 
             this.pictureBox1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
-            this.pictureBox1.Location = new System.Drawing.Point(221, 141);
+            this.pictureBox1.Location = new System.Drawing.Point(166, 115);
+            this.pictureBox1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(236, 194);
+            this.pictureBox1.Size = new System.Drawing.Size(177, 158);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox1.TabIndex = 30;
             this.pictureBox1.TabStop = false;
@@ -114,9 +120,10 @@
             this.label3.AutoSize = true;
             this.label3.BackColor = System.Drawing.Color.Lime;
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(437, 15);
+            this.label3.Location = new System.Drawing.Point(328, 12);
+            this.label3.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(393, 29);
+            this.label3.Size = new System.Drawing.Size(309, 24);
             this.label3.TabIndex = 29;
             this.label3.Text = "Player 1 - Escolha seu personagem";
             // 
@@ -125,9 +132,10 @@
             this.btn_ninja.BackColor = System.Drawing.Color.Lime;
             this.btn_ninja.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
             this.btn_ninja.ForeColor = System.Drawing.Color.Blue;
-            this.btn_ninja.Location = new System.Drawing.Point(930, 80);
+            this.btn_ninja.Location = new System.Drawing.Point(698, 65);
+            this.btn_ninja.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.btn_ninja.Name = "btn_ninja";
-            this.btn_ninja.Size = new System.Drawing.Size(75, 45);
+            this.btn_ninja.Size = new System.Drawing.Size(56, 37);
             this.btn_ninja.TabIndex = 28;
             this.btn_ninja.Text = "ghjkiuytf";
             this.btn_ninja.UseVisualStyleBackColor = false;
@@ -137,9 +145,10 @@
             this.btn_dragao.BackColor = System.Drawing.Color.Lime;
             this.btn_dragao.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
             this.btn_dragao.ForeColor = System.Drawing.Color.Blue;
-            this.btn_dragao.Location = new System.Drawing.Point(930, 350);
+            this.btn_dragao.Location = new System.Drawing.Point(698, 284);
+            this.btn_dragao.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.btn_dragao.Name = "btn_dragao";
-            this.btn_dragao.Size = new System.Drawing.Size(75, 45);
+            this.btn_dragao.Size = new System.Drawing.Size(56, 37);
             this.btn_dragao.TabIndex = 27;
             this.btn_dragao.Text = "Dragão";
             this.btn_dragao.UseVisualStyleBackColor = false;
@@ -150,21 +159,24 @@
             this.btn_general.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.btn_general.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
             this.btn_general.ForeColor = System.Drawing.Color.Blue;
-            this.btn_general.Location = new System.Drawing.Point(303, 80);
+            this.btn_general.Location = new System.Drawing.Point(227, 65);
+            this.btn_general.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.btn_general.Name = "btn_general";
-            this.btn_general.Size = new System.Drawing.Size(75, 45);
+            this.btn_general.Size = new System.Drawing.Size(56, 37);
             this.btn_general.TabIndex = 26;
             this.btn_general.Text = "General";
             this.btn_general.UseVisualStyleBackColor = false;
+            this.btn_general.Click += new System.EventHandler(this.btn_general_Click);
             // 
             // btn_soldado
             // 
             this.btn_soldado.BackColor = System.Drawing.Color.Lime;
             this.btn_soldado.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
             this.btn_soldado.ForeColor = System.Drawing.Color.Blue;
-            this.btn_soldado.Location = new System.Drawing.Point(611, 80);
+            this.btn_soldado.Location = new System.Drawing.Point(458, 65);
+            this.btn_soldado.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.btn_soldado.Name = "btn_soldado";
-            this.btn_soldado.Size = new System.Drawing.Size(75, 45);
+            this.btn_soldado.Size = new System.Drawing.Size(56, 37);
             this.btn_soldado.TabIndex = 25;
             this.btn_soldado.Text = "Soldado";
             this.btn_soldado.UseVisualStyleBackColor = false;
@@ -174,9 +186,10 @@
             this.btn_lutadordesumo.BackColor = System.Drawing.Color.Lime;
             this.btn_lutadordesumo.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
             this.btn_lutadordesumo.ForeColor = System.Drawing.Color.Blue;
-            this.btn_lutadordesumo.Location = new System.Drawing.Point(303, 350);
+            this.btn_lutadordesumo.Location = new System.Drawing.Point(227, 284);
+            this.btn_lutadordesumo.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.btn_lutadordesumo.Name = "btn_lutadordesumo";
-            this.btn_lutadordesumo.Size = new System.Drawing.Size(75, 45);
+            this.btn_lutadordesumo.Size = new System.Drawing.Size(56, 37);
             this.btn_lutadordesumo.TabIndex = 24;
             this.btn_lutadordesumo.Text = "Lutador de sumô";
             this.btn_lutadordesumo.UseVisualStyleBackColor = false;
@@ -186,18 +199,19 @@
             this.btn_mago.BackColor = System.Drawing.Color.Lime;
             this.btn_mago.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
             this.btn_mago.ForeColor = System.Drawing.Color.Blue;
-            this.btn_mago.Location = new System.Drawing.Point(611, 350);
+            this.btn_mago.Location = new System.Drawing.Point(458, 284);
+            this.btn_mago.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.btn_mago.Name = "btn_mago";
-            this.btn_mago.Size = new System.Drawing.Size(75, 45);
+            this.btn_mago.Size = new System.Drawing.Size(56, 37);
             this.btn_mago.TabIndex = 23;
             this.btn_mago.Text = "Mago";
             this.btn_mago.UseVisualStyleBackColor = false;
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1303, 634);
+            this.ClientSize = new System.Drawing.Size(977, 515);
             this.Controls.Add(this.pictureBox6);
             this.Controls.Add(this.pictureBox5);
             this.Controls.Add(this.pictureBox4);
@@ -211,6 +225,7 @@
             this.Controls.Add(this.btn_soldado);
             this.Controls.Add(this.btn_lutadordesumo);
             this.Controls.Add(this.btn_mago);
+            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.Name = "Form1";
             this.Text = "Form1";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).EndInit();
